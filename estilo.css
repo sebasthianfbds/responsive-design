@@ -251,7 +251,7 @@ Media Queries <<<<<=========================================
 /* 
 1200px – Desktops, notebooks com monitores widescreen
 ***********************************************************/
-@@media screen and (max-width: 1200px){
+@media screen and (max-width: 1200px){
 	.chamada h3 {
 		font-size: 1.66666666667em; /* 30px ÷ 18px */
 	}
